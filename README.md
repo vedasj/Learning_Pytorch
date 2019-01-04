@@ -8,3 +8,4 @@ Intro to deep learning with Pytorch - Udacity
 4. MNIST_Fashion_InferenceAndValidation_Pytorch.ipynb
 5. Conv_Visualization.ipynb
 6. Capsule_Network_Pytorch.ipynb
+7. Cifar_10_CNN_PyTorch.ipynb
