@@ -9,3 +9,4 @@ Intro to deep learning with Pytorch - Udacity
 5. Conv_Visualization.ipynb
 6. Capsule_Network_Pytorch.ipynb
 7. Cifar_10_CNN_PyTorch.ipynb
+8. Style_Transfer_CNN.ipynb
